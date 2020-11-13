@@ -1,1 +1,1 @@
-"# myGradleProject" 
+"# myGradleProject" example
